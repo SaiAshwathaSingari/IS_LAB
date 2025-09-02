@@ -1,0 +1,12 @@
+INFO:root:[2025-08-20 08:40:45.258496] Generated keys for HospitalA
+INFO:root:[2025-08-20 08:40:45.667276] Generated keys for ClinicB
+WARNING:root:[2025-08-20 08:40:45.708485] Revoked keys for ClinicB
+INFO:root:[2025-08-20 08:49:10.125310] Generated keys for HospitalA
+INFO:root:[2025-08-20 08:49:10.673993] Generated keys for ClinicB
+WARNING:root:[2025-08-20 08:49:10.674997] Revoked keys for ClinicB
+INFO:root:[2025-08-20 08:50:00.980999+00:00] Generated keys for HospitalA
+INFO:root:[2025-08-20 08:50:01.130915+00:00] Generated keys for ClinicB
+WARNING:root:[2025-08-20 08:50:01.131913+00:00] Revoked keys for ClinicB
+INFO:root:[2025-09-02 18:05:44.365015+00:00] Generated keys for HospitalA
+INFO:root:[2025-09-02 18:05:44.496773+00:00] Generated keys for ClinicB
+WARNING:root:[2025-09-02 18:05:44.497448+00:00] Revoked keys for ClinicB
